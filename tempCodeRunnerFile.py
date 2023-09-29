@@ -1,0 +1,1 @@
+selected_movie['poster_path'].values[0]
