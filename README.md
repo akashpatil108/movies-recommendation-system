@@ -128,8 +128,6 @@ If you have any questions or feedback, feel free to reach out to Akash Patil:
 - LinkedIn: [Akash Patil LinkedIn](https://www.linkedin.com/in/akash-patil-985a7a179/)
 - GitHub: [Akash Patil GitHub](https://github.com/akashpatil108)
 
-
-## Acknowledgments
 ## Acknowledgments
 
 We would like to express our gratitude to the following individuals, organizations, and platforms for their invaluable contributions and support in the development of the Movies Recommendation System:
