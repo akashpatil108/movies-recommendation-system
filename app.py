@@ -51,9 +51,6 @@ st.markdown('''
 </style>
 ''', unsafe_allow_html=True)
 
-# Add the text to the top corner of the web page
-st.markdown('<div class="top-corner-text">to follow more updates [LinkedIn](https://www.linkedin.com/in/akash-patil-985a7a179/) [GitHub](https://github.com/akashpatil108) Akash Patil</div>', unsafe_allow_html=True)
-
 st.markdown("""
 <style>
 body {
