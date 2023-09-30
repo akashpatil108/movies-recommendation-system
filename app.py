@@ -4,14 +4,14 @@ import pickle
 from PIL import Image, ImageDraw, ImageFont
 import streamlit as st
 
-# Load the cleaned dataset
-df = pd.read_csv("J:\\data science\\VS code\\movies recommendation system\\Movies_cleaned.csv")
+# Load the cleaned dataset 
+df = pd.read_csv("Movies_cleaned.csv")
 
 # Create a copy of the original DataFrame
 new_df = df.copy()
 
 # Load the similarity matrix
-similarity_matrix = "J:\\data science\\VS code\\movies recommendation system\\similarity_matrix.pkl"
+similarity_matrix = "similarity_matrix.pkl"
 
 with open(similarity_matrix, "rb") as f:
     similarity_matrix = pickle.load(f)
