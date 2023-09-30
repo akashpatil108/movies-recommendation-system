@@ -130,6 +130,23 @@ If you have any questions or feedback, feel free to reach out to Akash Patil:
 
 
 ## Acknowledgments
+## Acknowledgments
+
+We would like to express our gratitude to the following individuals, organizations, and platforms for their invaluable contributions and support in the development of the Movies Recommendation System:
+
+- **TMDB (The Movie Database)**: Our project utilizes data and images sourced from TMDB. TMDB provides a comprehensive database of movie information and images, which has been instrumental in enhancing the content and visual appeal of our recommendation system.
+
+- **Kaggle**: We extend our thanks to Kaggle for hosting and making available the TMDB Dataset. Kaggle's platform has been a valuable resource for accessing and working with this dataset.
+
+- **Open Source Community**: Our project builds upon the collective knowledge and efforts of the open-source community. We appreciate the countless open-source libraries, tools, and resources that have made this project possible.
+
+- **GitHub**: We utilize GitHub as a collaborative platform for code hosting and version control. GitHub's features and ecosystem have facilitated the development and sharing of this project.
+
+- **Streamlit Community**: We appreciate the Streamlit community for creating an accessible platform that enables us to build interactive web applications with ease.
+
+- **Python and Data Science Community**: Our project leverages Python and various data science libraries. We are thankful for the Python and data science communities for their continuous support and advancements in the field.
+
+Your support and contributions, along with the availability of TMDB data and images, have been essential in making this project a reality. We look forward to continued collaboration and improvement in the future.
 
 
 
