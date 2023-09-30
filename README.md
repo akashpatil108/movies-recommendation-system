@@ -23,7 +23,6 @@ It's worth noting that this project was developed with limited resources. Despit
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
@@ -112,19 +111,11 @@ These libraries and technologies collectively contribute to the functionality an
 
 
 ## Screenshots
+![Screenshot 2](https://github.com/akashpatil108/movies-recommendation-system/blob/962f7d4bc6045620a6c33c214194362ebc7d73f0/Screenshot%20(22).png)
 
-![Screenshot 1](Screenshot(20).png)
-![Screenshot 2](Screenshot(22).png)
+![Screenshot 1](https://github.com/akashpatil108/movies-recommendation-system/blob/962f7d4bc6045620a6c33c214194362ebc7d73f0/Screenshot%20(20).png)
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
-
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Make your changes and commit them.
-- Push your changes to your fork.
-- Open a pull request to the main repository.
 
 ## License
 
@@ -136,6 +127,7 @@ If you have any questions or feedback, feel free to reach out to Akash Patil:
 
 - LinkedIn: [Akash Patil LinkedIn](https://www.linkedin.com/in/akash-patil-985a7a179/)
 - GitHub: [Akash Patil GitHub](https://github.com/akashpatil108)
+
 
 ## Acknowledgments
 
